@@ -1,4 +1,4 @@
-'''c
+```c
 #include <stdio.h>
 
 void name(const char *value)        { printf("Name: %s\n", value); }
@@ -12,4 +12,4 @@ void profile(void) {
     languages("C");
     interests("open-source, data structures");
 }
-'''
+```
