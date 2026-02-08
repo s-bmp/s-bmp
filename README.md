@@ -6,8 +6,8 @@ void role(const char *value) { printf("Role: %s\n", value); }
 void languages(const char *value) { printf("Languages: %s\n", value); }
 
 void profile(void) {
-    name("Sebastian.");
-    role("Amateur Coder.");
-    languages("C");
+    name("sebastian.");
+    role("midnight coder.");
+    languages("c.");
 }
 ```
